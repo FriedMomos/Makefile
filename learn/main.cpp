@@ -3,7 +3,8 @@
 #include "new.h"
 
 int main(){
-int a=5,b=4;
+int a,b;
+std::cin>>a>>b;
 int result = add(a,b);
 std::cout<<"The result = "<<result<<std::endl;
 return 0;
