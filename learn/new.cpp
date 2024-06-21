@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-	int a=5, b=4, c=9;
+	int a=5, b=4, c=18;
 	std::cout<<"The sum of the number is: "<<a+b+c<<std::endl;
 	int math::add(int a, int b){
 	return (a+b);
