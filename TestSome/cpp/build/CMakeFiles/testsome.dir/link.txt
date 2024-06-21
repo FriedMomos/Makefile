@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testsome.dir/main.cpp.o -o testsome   -L/mnt/c/Users/Tanish/Documents/makefile/TestSome/cpp/../../SomeLibDemo/cpp/build  -Wl,-rpath,/mnt/c/Users/Tanish/Documents/makefile/TestSome/cpp/../../SomeLibDemo/cpp/build -lmearlymath 

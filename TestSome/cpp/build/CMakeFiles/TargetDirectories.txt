@@ -1,0 +1,3 @@
+/mnt/c/Users/Tanish/Documents/makefile/TestSome/cpp/build/CMakeFiles/testsome.dir
+/mnt/c/Users/Tanish/Documents/makefile/TestSome/cpp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tanish/Documents/makefile/TestSome/cpp/build/CMakeFiles/rebuild_cache.dir
